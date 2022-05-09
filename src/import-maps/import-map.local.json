@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "@mach/root-config": "http://localhost:3000/mach-root-config.js",
+    "@bcilabs/mach-incidence-transactions-web-ng ": "http://localhost:4203/main-es2015.js",
+    "@bcilabs/mach-backoffice-web-ng": "http://localhost:4200/main.js",
+    "@bcilabs/mach-cs-biz-backoffice-ng": "http://localhost:4201/main-es2015.js",
+    "@bcilabs/mach-backoffice-mimir-cs": "//localhost:4202/main.js",
+    "@bcilabs/mach-backoffice-heimdall-cs": "//localhost:4204/main.js"
+  }
+}

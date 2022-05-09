@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "@mach/root-config": "https://backoffice.soymach.com/-root-config.js",
+    "@bcilabs/mach-incidence-transactions-web-ng ": "https://incidence-transactions.soymach.com/main-es2015.js",
+    "@bcilabs/mach-backoffice-web-ng": "https://cs-backoffice.soymach.com/main.js",
+    "@bcilabs/mach-cs-biz-backoffice-ng": "https://cs-biz-backoffice.somosmach.com/main-es2015.js",
+    "@bcilabs/mach-backoffice-mimir-cs": "//localhost:4202/main.js",
+    "@bcilabs/mach-backoffice-heimdall-cs": "//localhost:4204/main.js"
+  }
+}

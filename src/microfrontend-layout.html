@@ -1,0 +1,14 @@
+<single-spa-router>
+  <route path="cs">
+    <application name="@bcilabs/mach-backoffice-web-ng"></application>
+  </route>
+  <route path="users">
+    <application name="@bcilabs/mach-backoffice-mimir-cs"></application>
+  </route>
+  <route path="login">
+    <application name="@bcilabs/mach-backoffice-heimdall-cs"></application>
+  </route>
+  <route default>
+    <application name="@bcilabs/mach-backoffice-mimir-cs"></application>
+  </route>
+</single-spa-router>
